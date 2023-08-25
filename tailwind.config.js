@@ -8,9 +8,6 @@ export default {
     extend: {
       gridTemplateColumns: {
         tasks: 'repeat(auto-fill, minmax(15rem, 1fr))'
-      },
-      fontFamily: {
-        extraFont: ''
       }
     }
   },

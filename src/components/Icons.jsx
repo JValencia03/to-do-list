@@ -1,4 +1,4 @@
-export function FilterIcon () {
+export function FilterIcon ({ color }) {
   return (
     <svg
       clipRule="evenodd"
