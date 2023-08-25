@@ -4,7 +4,7 @@
 
 @layer base {
   :root {
-    @apply dark:bg-slate-800 bg-slate-50 box-border
+    @apply bg-slate-50 box-border
   }
 }
 
